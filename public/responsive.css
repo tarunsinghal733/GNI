@@ -1,0 +1,838 @@
+@media (max-width:991px) {
+    .navbar {
+        padding: 0 2rem;
+    }
+
+    .navbar-brand img {
+        width: 150px;
+        height: 55px;
+    }
+
+    .top-coursel {
+        height: 37rem;
+    }
+
+    .webdesign {
+        padding-top: 4rem;
+    }
+
+    .webdesign h2 {
+        font-size: 1.9875rem;
+        line-height: 1.8899rem;
+    }
+
+    .about-text {
+        padding: 1.5rem;
+        text-align: left;
+        margin-top: 1.9875rem;
+        margin-left: -6rem;
+        width: 32rem;
+    }
+
+    .about-img img {
+        height: 20rem;
+        width: 20rem;
+        padding-right: 1rem;
+    }
+
+    .about-img {
+        width: 22.8345rem;
+        margin-top: 8rem;
+        margin-bottom: 7rem;
+        padding-top: 6rem;
+        margin-left: 3.48rem;
+        text-align: center;
+        height: 26.8345rem;
+
+    }
+
+    .service-card {
+        margin-bottom: 2rem;
+        width: 44rem;
+        height: 16rem;
+    }
+
+    .offer {
+        background: var(--bg1-gradient);
+        height: 79rem;
+        text-align: center;
+        padding-top: 4rem;
+    }
+
+    .offer .tabs {
+        margin-left: -1rem;
+    }
+
+    .tabs-content {
+        width: 45rem;
+        height: 42.5rem;
+        margin-top: -0.7rem;
+        margin-left: -0.87rem;
+        padding-right: 1.5rem;
+    }
+
+    .tabs-img {
+        width: 20rem;
+        height: 25rem;
+        margin-top: 5rem;
+        margin-left: 1rem;
+    }
+
+    .tabs-content-c {
+        width: 45rem;
+        height: 35rem;
+        margin-top: -0.4rem;
+        margin-left: -0.87rem;
+        padding-right: 3rem;
+    }
+
+    .tabs-img-c {
+        width: 25rem;
+        height: 20rem !important;
+        margin-top: 8rem;
+        margin-left: -2rem;
+    }
+
+    .tabs-content-vs {
+
+        width: 45rem;
+        height: 50rem;
+        margin-top: -0.4rem;
+        margin-left: -0.87rem;
+        padding-right: 3rem;
+
+    }
+
+    .tabs-img-vs {
+        width: 15rem;
+        height: 20rem !important;
+        margin-left: 3rem;
+        margin-top: 9rem;
+    }
+
+    .testimonials {
+        height: 35rem;
+    }
+
+    .testimonials-text {
+        text-align: center;
+        margin: 1rem 0;
+    }
+
+    .testimonials-text h5 {
+        font-size: 1rem;
+        color: white;
+        font-weight: 700;
+    }
+
+    .testimonials-text h3 {
+        font-size: 1.765rem;
+        color: white;
+        font-weight: 700;
+    }
+
+    .testimonials-text h3 span {
+        font-size: 1.765rem;
+        color: #eb1a44;
+        font-weight: 700;
+    }
+
+    .testimonials-text p {
+        padding: 0 15rem;
+        line-height: 1.5rem;
+    }
+
+    .swiper {
+        width: 45rem;
+        height: 15rem;
+    }
+
+    .your_frame1,
+    .your_frame2,
+    .your_frame3,
+    .your_frame4 {
+        margin-left: 12rem;
+        margin-top: 2rem;
+        padding: 3rem 0;
+    }
+
+    .blog-card-text1 {
+        left: 1.5rem;
+        width: 18.4rem;
+    }
+
+    .blog-card-text2 {
+        left: 1.5rem;
+        width: 18.4rem;
+        height: 16rem;
+    }
+
+    .contact-text h2 {
+        font-size: 1.5rem;
+        line-height: 2.5rem;
+    }
+
+    .contact-text1 {
+        width: 63.5rem;
+        position: absolute;
+    }
+
+    .logo-text {
+        margin-left: -6rem;
+    }
+
+    .logo-text img {
+        width: 16rem;
+    }
+
+    .logo-text2 {
+        margin-left: -1rem;
+    }
+
+    .phone-pin {
+        margin-left: -4.7rem;
+    }
+
+    .email-pin {
+        margin-left: -1rem;
+    }
+}
+
+
+@media (max-width:767.5px) {
+    .navbar {
+        padding: 0 1rem;
+    }
+
+    .navbar-brand img {
+        width: 120px;
+        height: 35px;
+    }
+
+    .top-coursel {
+        padding: 6rem 0;
+        background: var(--bg-gradient) !important;
+        height: 30.875rem;
+        width: 100%;
+        text-align: center;
+    }
+
+    .webdesign {
+        padding-top: 2rem;
+        height: 55rem;
+        text-align: center;
+    }
+
+    .webdesign h2 {
+        font-weight: 600;
+        line-height: 1.8685rem;
+        text-align: center;
+    }
+
+    .webdesign p {
+        padding-left: 2.5rem;
+        text-align: center;
+        padding-right: 2rem;
+        line-height: 1.475rem;
+        font-size: 0.875rem !important;
+
+    }
+
+    .webtbn {
+        text-align: center;
+    }
+
+    .btn1 {
+        font-size: 0.875rem;
+        padding: 0.725rem .875rem;
+    }
+
+    .btn2 {
+        font-size: 0.875rem;
+        padding: 0.725rem .875rem;
+    }
+
+    .img-coursel img {
+        padding: 1rem 1rem;
+        width: 20rem;
+        height: 20rem;
+    }
+
+    .about {
+        margin: 3rem;
+    }
+
+    .about-text {
+        padding: 1rem;
+        text-align: left;
+        margin-top: 1.4875rem;
+        margin-left: -6rem;
+        width: 25rem;
+    }
+
+    .about-img img {
+        height: 15rem;
+        width: 15rem;
+    }
+
+    .about-img {
+        width: 19.1345rem;
+        margin-top: 7rem;
+        padding-top: 4rem;
+        margin-left: 2.1875rem;
+        text-align: center;
+        height: 18.8345rem;
+    }
+
+    button>.left-arrow {
+        margin-bottom: 30rem;
+    }
+
+    button>.right-arrow {
+        margin-bottom: 30rem;
+    }
+
+    .service-card {
+        margin-bottom: 2rem;
+        width: 34rem;
+        height: 17.5rem;
+    }
+
+    .offer {
+        background: var(--bg1-gradient);
+        height: 105rem;
+        text-align: center;
+        padding-top: 8rem;
+    }
+
+    .offer .tabs {
+        margin-left: -1rem;
+    }
+
+    .tabs-content {
+        width: 33.8756rem;
+        height: 53.5rem;
+        padding: 0 2rem;
+    }
+
+    .tabs-img {
+        width: 30rem;
+        height: 25rem;
+        text-align: center !important;
+        margin-left: -1rem;
+        margin-top: -2.5rem;
+    }
+
+    .tabs-content-c {
+        width: 33.8756rem;
+        height: 50.5rem;
+        padding: 0 2rem;
+    }
+
+    .tabs-img-c {
+        width: 30rem;
+        height: 25rem;
+        text-align: center !important;
+        margin-left: -1rem;
+        margin-top: 3rem;
+    }
+
+    .tabs-content-vs {
+        width: 33.8756rem;
+        height: 70.5rem;
+        padding: 0 2rem;
+    }
+
+    .tabs-img-vs {
+        width: 15rem;
+        height: 5rem;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+        margin-left: 5.7rem;
+    }
+
+    .testimonials {
+        height: 38rem;
+    }
+
+    .testimonials-text p {
+        padding: 2rem 11rem;
+        line-height: 1.5rem;
+    }
+
+    .swiper {
+        width: 40rem;
+        height: 15rem;
+    }
+
+    .your_frame1,
+    .your_frame2,
+    .your_frame3,
+    .your_frame4 {
+        margin-left: 6.7458rem;
+        padding: 1rem 0;
+    }
+
+    .blog-card-text1 {
+        left: 4.8rem;
+        width: 22.4rem;
+    }
+
+    .blog-card-text2 {
+        left: 4.8rem;
+        width: 22.4rem;
+        height: 13rem;
+    }
+
+    .contact-text {
+        padding: 9rem 3rem;
+    }
+
+    .contact-text h2 {
+        padding: 0 8rem;
+    }
+
+    .contact-text1 {
+        margin-top: 3.5rem;
+        padding: 2rem 4rem;
+        width: 50.1rem;
+        margin-left: -3rem !important;
+    }
+
+    .footer {
+        height: 80rem;
+    }
+
+    .logo-text {
+        margin-top: -40rem;
+        position: absolute;
+        margin-left: 4rem;
+        text-align: center;
+    }
+
+    .logo-text p {
+        width: 25rem;
+    }
+
+    .logo-text1 {
+        margin-top: -23rem;
+        position: absolute;
+        margin-left: 12rem;
+        text-align: left;
+    }
+
+    .logo-text2 {
+        margin-top: -5rem;
+        position: absolute;
+        margin-left: 12rem;
+        text-align: left;
+    }
+
+    .logo-text3 {
+        margin-top: 8rem;
+        margin-left: -4rem;
+    }
+
+    .address3 {
+        margin-left: -13.5rem;
+    }
+
+    .address4 {
+        margin-left: -1rem;
+    }
+}
+
+
+@media (max-width:575px) {
+    .navbar {
+        padding: 0 1rem;
+    }
+
+    .navbar-brand img {
+        width: 120px;
+        height: 35px;
+    }
+
+    .top-coursel {
+        padding: 5rem 0;
+        background: var(--bg-gradient) !important;
+        height: 53rem;
+        width: 100%;
+        text-align: center;
+    }
+
+    .webdesign {
+        padding-top: 5rem;
+        height: 30rem;
+        text-align: center;
+    }
+
+    .webdesign h2 {
+        font-weight: 600;
+        line-height: 1.5685rem;
+        text-align: center;
+    }
+
+    .webdesign h2,
+    .webdesign p {
+        padding-left: 2.5rem;
+        text-align: center;
+        padding-right: 2rem;
+        font-size: 1.5rem !important;
+    }
+
+    .webdesign p {
+        line-height: 1.875rem;
+    }
+
+    .img-coursel img {
+        padding: 1rem 1rem;
+        width: 40rem;
+        height: 22rem;
+        text-align: center;
+    }
+
+    .webbtn {
+        text-align: center;
+        margin-right: 6.5rem;
+    }
+
+    .about-text {
+        text-align: left;
+        margin-top: 1.4875rem;
+        margin-left: 1.5rem;
+        width: 25rem;
+        box-shadow: none;
+    }
+
+    .about-img {
+        display: none;
+    }
+
+    .offer {
+        background: var(--bg1-gradient);
+        height: 105rem;
+        text-align: center;
+        padding-top: 8rem;
+    }
+
+    .offer .tabs {
+        margin-left: 1.5rem;
+        margin-right: 1rem;
+        width: 32rem;
+    }
+
+    .tabs-content {
+        width: 32rem;
+        height: 53.5rem;
+        padding: 0 2rem;
+    }
+
+    .tabs-img {
+        width: 30rem;
+        height: 25rem;
+        text-align: center !important;
+        margin-left: -1rem;
+        margin-top: -2.5rem;
+    }
+
+    .tabs-content-c {
+        width: 32rem;
+        height: 50.5rem;
+        padding: 0 2rem;
+    }
+
+    .tabs-img-c {
+        width: 30rem;
+        height: 25rem;
+        text-align: center !important;
+        margin-left: -1rem;
+        margin-top: 3rem;
+    }
+
+    .tabs-content-vs {
+        width: 32rem;
+        height: 72.5rem;
+        padding: 0 2rem;
+    }
+
+    .tabs-img-vs {
+        width: 15rem;
+        height: 5rem;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+        margin-left: 5.7rem;
+    }
+
+    .testimonials {
+        height: 45rem;
+    }
+
+    .testimonials-text p {
+        padding: 2rem 8rem;
+        line-height: 1.5rem;
+    }
+
+    .swiper {
+        width: 33rem;
+        height: 17rem;
+    }
+
+    .blog-card-text1 {
+        left: 5.8rem;
+        width: 22.4rem;
+    }
+
+    .blog-card-text2 {
+        left: 5.8rem;
+        width: 22.4rem;
+        height: 13rem;
+    }
+
+    .contact-text {
+        padding: 9rem 0;
+    }
+
+    .contact-text h2 {
+        padding: 0 8rem;
+    }
+
+    .contact-text1 {
+        margin-top: 1rem;
+        padding: 2rem 4rem;
+        width: 37.9rem;
+        margin-left: -3rem !important;
+    }
+
+    .footer {
+        height: 83rem;
+    }
+
+    .logo-text3 {
+        margin-top: 8rem;
+        margin-left: 2rem;
+    }
+
+    .address3 {
+        margin-left: -4.5rem;
+    }
+
+}
+
+@media (max-width:390px) {
+    .navbar {
+        padding: 0 1rem;
+    }
+
+    .navbar-brand img {
+        width: 120px;
+        height: 35px;
+    }
+
+    .top-coursel {
+        padding: 1rem 0;
+        background: var(--bg-gradient) !important;
+        height: 50rem;
+        width: 100%;
+        text-align: left;
+    }
+
+    .webdesign {
+        padding-top: 5rem;
+        height: 30rem;
+        text-align: center;
+    }
+
+    .webdesign h2 {
+        font-weight: 600;
+        line-height: 1.5685rem;
+    }
+
+    .webdesign h2,
+    .webdesign p {
+        padding-left: 2.5rem;
+        text-align: center;
+        padding-right: 2rem;
+        font-size: 1.5rem !important;
+    }
+
+    .img-coursel img {
+        margin-top: 1.5rem;
+        padding: 0 1rem;
+        width: 25rem;
+        height: 15rem;
+        text-align: center;
+    }
+
+    .webbtn {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .webbtn .btn1 {
+        margin-bottom: 1rem;
+    }
+
+    .about-text {
+        text-align: left;
+        margin-top: 1.4875rem;
+        margin-left: 1rem;
+        margin-right: 3rem;
+        width: 22rem;
+        box-shadow: none;
+    }
+
+    .about-text h4 {
+        color: #ec1944;
+        font-size: 1rem !important;
+    }
+
+    .about-text h2 {
+        font-weight: 500;
+        font-size: 1.8375rem;
+    }
+
+    .about-text p {
+        color: #707070;
+        font-size: 0.9rem;
+    }
+
+    .service-card {
+        margin-bottom: 2rem;
+        width: 20rem;
+        height: 20.5rem;
+        margin-left: 1.5rem;
+    }
+
+    .offer {
+        background: var(--bg1-gradient);
+        height: 155rem;
+        text-align: center;
+        padding-top: 8rem;
+    }
+
+    .offer .tabs {
+        margin-left: 1.5rem;
+        margin-right: 1rem;
+        width: 20rem;
+        height: 19rem;
+    }
+
+    .tabs-content {
+        width: 20rem;
+        height: 60rem;
+        padding: 0 2rem;
+    }
+
+    .tabs-img {
+        width: 20rem;
+        height: 15rem;
+        text-align: center !important;
+        margin-left: -3rem;
+        margin-top: -5.5rem;
+    }
+
+    .tabs-content-c {
+        width: 20rem;
+        height: 55.5rem;
+        padding: 0 2rem;
+    }
+
+    .tabs-img-c {
+        width: 20rem;
+        height: 15rem;
+        text-align: center !important;
+        margin-left: -1rem;
+        margin-top: 3rem;
+        margin-bottom: -10rem;
+    }
+
+    .tabs-content-vs {
+        width: 20rem;
+        height: 108.5rem;
+        padding: 0 2rem;
+    }
+
+    .tabs-img-vs {
+        width: 15rem;
+        height: 5rem;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+        margin-left: -0.5rem;
+    }
+
+    .testimonials {
+        height: 52rem;
+    }
+
+    .testimonials-text p {
+        padding: 2rem 3rem;
+        line-height: 1.5rem;
+    }
+
+    .swiper {
+        width: 20rem;
+        height: 25rem;
+    }
+
+    .your_frame1,
+    .your_frame2,
+    .your_frame3,
+    .your_frame4 {
+        margin-left: 2.2458rem;
+        padding: 1rem 0;
+    }
+
+    .blog-card-text1 {
+        left: 1.1rem;
+        width: 20.4rem;
+    }
+
+    .blog-card-text2 {
+        left: 1.1rem;
+        width: 20.4rem;
+        height: 14.2rem;
+    }
+
+    .contact-text {
+        padding: 9rem 0;
+    }
+
+    .contact-text h2 {
+        padding: 0 3rem;
+    }
+
+    .contact-text1 {
+        margin-top: 1rem;
+        padding: 2rem 3rem;
+        width: 25.987466rem;
+        margin-left: -3rem !important;
+    }
+
+    .footer {
+        height: 90rem;
+        margin-top: 10rem;
+    }
+
+    .logo-text {
+        margin-left:2rem;
+        margin-bottom: 7rem;
+    }
+
+    .logo-text p {
+        width: 17rem;
+        line-height: 2rem;
+    }
+
+    .logo-text img {
+        width: 12rem;
+    }
+
+    .logo-text1,
+    .logo-text2{
+        margin-left: 7rem;
+    }
+    .address3{
+        margin-left: -1rem;
+    }
+}
