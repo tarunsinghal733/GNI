@@ -45,5 +45,6 @@ app.get("/", (req, res) => {
         "Allow-access-Allow-Origin": '*'
     })
     return res.redirect('index.html');
-}).listen(4200);
+}).listen(4600);
 console.log("listening on PORT 4600");
+
